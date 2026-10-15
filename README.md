@@ -18,6 +18,7 @@ colors, the fonts and the writing rules.
 | `ratio-brand/assets/fonts/` | Lexend (headings) and Source Sans 3 (body). Free to install and share. |
 | `ratio-brand/assets/icons/` | The small icons used in the monthly client report email. |
 | `logos-hi-res/` | Full-resolution logos for print. |
+| `meet-backgrounds/` | Ratio backgrounds for Google Meet video calls (navy and light). |
 
 ## Setup (about 5 minutes)
 
@@ -58,6 +59,25 @@ Paste this into a new Claude chat:
 
 You should get a file with the green Ratio logo top left, navy Lexend
 headings, and clean writing with no long dashes.
+
+## Google Meet backgrounds
+
+Use one of these on video calls so everyone at Ratio looks the same on screen.
+Navy suits most rooms; light is better if you sit in a bright room.
+
+- **[Download the navy background](https://github.com/protohypemusic/ratio-brand-kit/releases/download/meet-backgrounds/ratio-meet-background-navy.jpg)**
+- **[Download the light background](https://github.com/protohypemusic/ratio-brand-kit/releases/download/meet-backgrounds/ratio-meet-background-light.jpg)**
+
+To set one up:
+
+1. Download the image.
+2. In Google Meet, before you join a call, click the sparkle icon (**Apply
+   visual effects**) under your camera preview. During a call it's under the
+   three dots menu.
+3. Open **Backgrounds**, click the **+** tile, and pick the file.
+
+Meet mirrors your own preview, so the logo looks backwards to you. Everyone
+else sees it the right way round.
 
 ## Other ways to use it
 
